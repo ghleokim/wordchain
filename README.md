@@ -1,5 +1,5 @@
 # Github Flow
 Fork & Pull Request Model
 
-## ³¡¸»ÀÕ±â
-- ±è°ÇÈ£
+## ëë§ìž‡ê¸°
+- ê¹€ê±´í˜¸
